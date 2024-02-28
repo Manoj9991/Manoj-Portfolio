@@ -9,7 +9,7 @@ export const Navbar = () => {
   return <nav className={styles.navbar}>
     <a className={styles.title} href='/'>portfolio</a>
     <div className={styles.menu}>
-        <img className={styles.menuBtn} src={menuOpen ? getImageUrl("nav/closeBtn.jpg") : getImageUrl("nav/menuBtn.png")} alt='menu' onClick= {() => setMenuOpen(!menuOpen)}/>
+        <img className={styles.menuBtn} src={menuOpen ? getImageUrl("nav/closeIcon.png") : getImageUrl("nav/menuIcon.png")} alt='menu' onClick= {() => setMenuOpen(!menuOpen)}/>
         <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}>
             <li>
                 <a href='#about'>About</a>
