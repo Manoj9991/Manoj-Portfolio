@@ -6,7 +6,7 @@ export const Home = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, Im Manoj</h1>
-            <p className={styles.description}>Im a full stack developer with 2 years of Experience with react and node js. reach out if you`d like to learn more!</p>
+            <p className={styles.description}>Im a full stack developer with 2 years of Experience with react and node js. reach out if you`d like to learn more ksdljslfjo sdks elkjds weoijsdf oiwe skdfj owijs ewiosdj sj learn more ksdljslfjo sdks elkjds weoijsdf oiwe skdfj owijs ewiosdj sj!</p>
             <a href="mailto:manojlakshan9991@gmail.com" className={styles.contactMe}>Contact Me</a>
         </div>
         <img className={styles.dpImage} src={getImageUrl("home/dp.jpeg")} alt="dp"/>

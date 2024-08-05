@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "project/project.png",
+        "description": "This is project made to learn the latest",
+        "skills": ["React","Express","Node"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project A",
+        "imageSrc": "project/project.png",
+        "description": "This is project made to learn the latest",
+        "skills": ["React","Express","Node"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project A",
+        "imageSrc": "project/project.png",
+        "description": "This is project made to learn the latest",
+        "skills": ["React","Express","Node"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
