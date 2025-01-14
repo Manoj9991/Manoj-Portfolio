@@ -6,8 +6,11 @@ export const Home = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, Im Manoj</h1>
-            <p className={styles.description}>Im a full stack developer with 2 years of Experience with react and node js. reach out if you`d like to learn more ksdljslfjo sdks elkjds weoijsdf oiwe skdfj owijs ewiosdj sj learn more ksdljslfjo sdks elkjds weoijsdf oiwe skdfj owijs ewiosdj sj!</p>
+            <p className={styles.description}>I am currently an Associate Software Engineer with 2 years of experience as a full-stack developer. I have expertise in web and mobile app development, proficient in technologies such as React, Angular, Node.js, and Flutter.</p>
+            <div className={styles.buttons}>
             <a href="mailto:manojlakshan9991@gmail.com" className={styles.contactMe}>Contact Me</a>
+            <a href="/Refer-to-Code-Creation.pdf" className={styles.contactMe} download="Refer-to-Code-Creation.pdf">Download CV</a>
+            </div>
         </div>
         <img className={styles.dpImage} src={getImageUrl("home/dp.jpeg")} alt="dp"/>
         <div className={styles.topBlur}/>

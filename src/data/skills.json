@@ -17,7 +17,7 @@
     },
     {
         "title":"Angular",
-        "imageSrc":"skills/angular.png"
+        "imageSrc":"skills/Angular_logo.png"
     },
     {
         "title":"MongoDB",
@@ -30,9 +30,5 @@
     {
         "title":"CSS",
         "imageSrc":"skills/css.png"
-    },
-    {
-        "title":"React",
-        "imageSrc":"skills/react.png"
     }
 ]

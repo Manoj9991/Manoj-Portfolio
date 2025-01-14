@@ -1,18 +1,18 @@
 [
     {
-        "role":"Software Engineer",
-        "organization":"Google",
-        "startDate":"July, 2023",
-        "endDate":"january, 2024",
-        "experiences":["Worked on Google maps","Reduced load time"],
-        "imageSrc":"history/google.png"
+        "role":"Associate Software Engineer",
+        "organization":"Echonlabs (PVT) LTD",
+        "startDate":"April 2024",
+        "endDate":"-",
+        "experiences":["Worked as a FullStack developer with angular and node js","Reduced load time"],
+        "imageSrc":"history/echonlabs_logo.jpeg"
     },
     {
-        "role":"Software Engineer",
-        "organization":"Google",
+        "role":"Trainee Software Engineer",
+        "organization":"Echonlabs (PVT) LTD",
         "startDate":"July, 2023",
-        "endDate":"january, 2024",
-        "experiences":["Worked on Google maps","Reduced load time"],
-        "imageSrc":"history/google.png"
+        "endDate":"april, 2024",
+        "experiences":["Worked as a FullStack developer with angular and node js","Reduced load time"],
+        "imageSrc":"history/echonlabs_logo.jpeg"
     }
 ]

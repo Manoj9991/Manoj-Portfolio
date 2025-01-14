@@ -1,7 +1,7 @@
 [
     {
         "title": "Project A",
-        "imageSrc": "project/project.png",
+        "imageSrc": "projects/bloom.png",
         "description": "This is project made to learn the latest",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
     },
     {
         "title": "Project A",
-        "imageSrc": "project/project.png",
+        "imageSrc": "projects/feedback.jpg",
         "description": "This is project made to learn the latest",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
@@ -17,7 +17,23 @@
     },
     {
         "title": "Project A",
-        "imageSrc": "project/project.png",
+        "imageSrc": "projects/apple.jpg",
+        "description": "This is project made to learn the latest",
+        "skills": ["React","Express","Node"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project A",
+        "imageSrc": "projects/gpa.jpg",
+        "description": "This is project made to learn the latest",
+        "skills": ["React","Express","Node"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project A",
+        "imageSrc": "projects/photo.jpg",
         "description": "This is project made to learn the latest",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",

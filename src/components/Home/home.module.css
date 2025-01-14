@@ -33,6 +33,11 @@
     font-size: 30px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
+    padding-right: 30px;
+}
+
+.middle {
+    padding-right: 10px;
 }
 
 .contactMe {
@@ -54,6 +59,13 @@
     animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
+    border-radius: 70%;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 @keyframes floating {
@@ -102,5 +114,19 @@
     }
     .content {
         align-items: center;
+    }
+    .description {
+        padding-right: 0px;
+        text-align: center;
+    }
+    .title {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .contactMe {
+        margin-bottom: 10px;
+    }
+    .buttons {
+        flex-direction: column;
     }
 }

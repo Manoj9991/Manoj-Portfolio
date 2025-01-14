@@ -32,6 +32,12 @@
     gap: 26px;
 }
 
+/* link {
+    display: flex;
+    flex-direction: row;
+    gap:25px
+} */
+
 .link a {
     color: var(--color-text);
     text-decoration: none;
