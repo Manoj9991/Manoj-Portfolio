@@ -1,15 +1,17 @@
-import React from 'react'
-import { getImageUrl } from '../../utils'
-import styles from './Contact.module.css';
+import React from "react";
+import { getImageUrl } from "../../utils";
+import styles from "./Contact.module.css";
 
 export const Contacts = () => {
   return (
-    <footer id='contact' className={styles.container}>
-        <div className={styles.text}>
-          <h2>Contact</h2>
-          <p>Feel free to reach out</p>
-        </div>
-        <ul className={styles.links}>
+    <footer id="contact" className={styles.container}>
+      <div className={styles.text}>
+        <h2>Contact Me</h2>
+        <p>Need to Hire? Please Feel Free to send a Message</p>
+        <p>I'll get in touch with you as Soon as Possible</p>
+      </div>
+
+      <ul className={styles.links}>
             <li className={styles.link}>
                 <img src={getImageUrl('contact/emailIcon.png')} alt='Email icon' />
                 <a href='mailto:manojlakshan9991@gmail.com'>manojlakshan9991@gmail.com</a>
@@ -24,5 +26,5 @@ export const Contacts = () => {
             </li>
         </ul>
     </footer>
-  )
-}
+  );
+};

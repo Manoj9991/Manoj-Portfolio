@@ -6,6 +6,7 @@ import {About} from "./components/About/about";
 import {Experience} from "./components/Experience/experience";
 import {Projects} from "./components/projects/project";
 import {Contacts} from "./components/Contact/Contact"
+import { Education } from "./components/Education/education";
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Navbar/>
       <Home />
       <About />
+      <Education />
       <Experience />
       <Projects />
       <Contacts />

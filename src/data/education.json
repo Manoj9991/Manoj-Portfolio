@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Bachelor of Computer Science",
+        "organization":"(University of Ruhuna)",
+        "startDate":"February 2020",
+        "endDate":"February 2024",
+        "experiences":["2nd class lower division"],
+        "imageSrc":"education/University_of_Ruhuna_logo.png"
+    },
+    {
+        "role":"GCE Advanced Level",
+        "organization":"(Embilipitiya President College)",
+        "startDate":"January, 2016",
+        "endDate":"August, 2018",
+        "experiences":["Physical Science","ABB"],
+        "imageSrc":"education/president_college.png"
+    },
+    {
+        "role":"GCE Ordinary Level",
+        "organization":"(Embilipitiya President College)",
+        "startDate":"January, 2010",
+        "endDate":"December, 2015",
+        "experiences":["6A 2B 1C"],
+        "imageSrc":"education/president_college.png"
+    }
+]

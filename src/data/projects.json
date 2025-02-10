@@ -1,42 +1,42 @@
 [
     {
-        "title": "Project A",
+        "title": "Bloom",
         "imageSrc": "projects/bloom.png",
-        "description": "This is project made to learn the latest",
+        "description": "Welcome to Bloom, the ultimate e-commerce platform designed for a seamless shopping experience! Built with Flutter for a fast and smooth user interface and powered by Node.js for a secure and scalable backend, ShopEase ensures a hassle-free way to shop online.",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/virokalu/ProjectBloem"
     },
     {
-        "title": "Project A",
+        "title": "Feedback App",
         "imageSrc": "projects/feedback.jpg",
-        "description": "This is project made to learn the latest",
+        "description": "This React Feedback Form app allows users to share their opinions effortlessly. It features a simple interface with name, email, rating, and comments fields. Built with React state management and validation, it ensures smooth data collection. User feedback helps improve services, making interactions more meaningful and engaging.",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/Manoj9991/Feedback-App"
     },
     {
-        "title": "Project A",
+        "title": "Apple Disease Detector",
         "imageSrc": "projects/apple.jpg",
-        "description": "This is project made to learn the latest",
+        "description": "Using MATLAB, apple disease identification can be performed using image processing techniques. Steps include image acquisition, pre-processing (grayscale conversion, noise removal), segmentation (thresholding, edge detection), feature extraction (color, texture, shape), and classification using rule-based analysis. These techniques help detect diseases like apple scab, rust, and blotch effectively.",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/zetcco/Apple-Disease-Detector"
     },
     {
-        "title": "Project A",
+        "title": "GPA Calculator",
         "imageSrc": "projects/gpa.jpg",
-        "description": "This is project made to learn the latest",
+        "description": "A GPA calculator using HTML, CSS, and JavaScript to compute university exam GPA based on course grades and course credit",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/Manoj9991/GPA-Calculator"
     },
     {
-        "title": "Project A",
+        "title": "Looking Hunter",
         "imageSrc": "projects/photo.jpg",
-        "description": "This is project made to learn the latest",
+        "description": "A photography project using Angular, NestJS, and MongoDB that enables photographers to manage portfolios, bookings, clients, payments, and galleries efficiently. It offers features like image uploads, scheduling, invoicing, and client interactions, streamlining their workflow in a single platform.",
         "skills": ["React","Express","Node"],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/Vimu26/Looking-Hunter"
     }
 ]
