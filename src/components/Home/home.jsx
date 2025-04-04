@@ -9,7 +9,7 @@ export const Home = () => {
             <p className={styles.description}>I am currently an Associate Software Engineer with 2 years of experience as a full-stack developer. I have expertise in web and mobile app development, proficient in technologies such as React, Angular, Node.js, and Flutter.</p>
             <div className={styles.buttons}>
             <a href="mailto:manojlakshan9991@gmail.com" className={styles.contactMe}>Contact Me</a>
-            <a href="/Refer-to-Code-Creation.pdf" className={styles.download_cv} download="Refer-to-Code-Creation.pdf">Download CV</a>
+            <a href="/Manoj_Lakshan.pdf" className={styles.download_cv} download="Manoj_Lakshan.pdf">Download CV</a>
             </div>
         </div>
         {/* <img className={styles.dpImage} src={getImageUrl("home/dp.jpeg")} alt="dp"/> */}
